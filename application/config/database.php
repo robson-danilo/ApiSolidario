@@ -74,11 +74,11 @@ $active_group = 'default';
 $query_builder = TRUE;
 
 $db['default'] = array(
-	'dsn'   => 'mysql:host=localhost;dbname=u682218345_solidario; charset=utf8;',
-	'hostname' => 'u682218345_solidario',
-	'username' => 'u682218345_robson',
-	'password' => '86617327Da.',
-	'database' => 'u682218345_solidario',
+	'dsn'   => 'mysql:host=localhost;dbname=solidario; charset=utf8;',
+	'hostname' => 'solidario',
+	'username' => 'robson',
+	'password' => '',
+	'database' => 'solidario',
 	'dbdriver' => 'pdo',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
